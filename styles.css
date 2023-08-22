@@ -25,11 +25,15 @@ ul > li > a{
 
 .player_one{
 	text-align: center;
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
 }
 
-.player_two{
-	text-align: center;
+audio{
+	display: block;
+	background-color: rgb(255, 255, 255); 
+	width: 560px;
+	margin-inline: auto;
 }
-
 
 
